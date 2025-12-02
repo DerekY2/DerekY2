@@ -1,1 +1,1 @@
-Hi, I'm Derek. I make stuff sometimes.
+Hi, I'm Derek. I work on stuff sometimes.
