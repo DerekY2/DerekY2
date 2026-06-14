@@ -8,5 +8,5 @@ Catch me on:
 
 Currently Learning About:
 - ML Systems
-- Inference
-- Agentic Kernels
+- Inference Optimization
+- raising a cat
