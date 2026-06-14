@@ -9,4 +9,4 @@ Catch me on:
 Currently learning about:
 - ML Systems
 - Inference Optimization
-- raising a kitten
+- raising a cat
