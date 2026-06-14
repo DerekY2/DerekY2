@@ -6,7 +6,7 @@ Catch me on:
 - [Dynamo](https://github.com/ai-dynamo/dynamo)
 - [vLLM](https://github.com/vllm-project/vllm)
 
-Currently Learning About:
+Currently learning about:
 - ML Systems
 - Inference Optimization
-- raising a cat
+- raising a kitten
